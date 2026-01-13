@@ -1,64 +1,176 @@
-{
-  "success": [
-    {
-      "id": "1",
-      "title": "🔥 Get Free Elite Pass Skins!",
-      "message": "Unlock rare Free Fire Elite Pass skins now – tap to claim instantly!",
-      "imange": "https://i.ytimg.com/vi/jrDvCO49mEg/hq720.jpg"
-    },
-    {
-      "id": "2",
-      "title": "💎 Win 10,000 Diamonds Today!",
-      "message": "Spin the Lucky Wheel & win big! Claim Free Fire diamonds fast.",
-      "imange": "https://i.ytimg.com/vi/jrDvCO49mEg/hq720.jpg"
-    },
-    {
-      "id": "3",
-      "title": "🎯 Headshot Tool Unlock",
-      "message": "Boost your accuracy with FF Headshot Tool - Tap to download now!",
-      "imange": "https://i.ytimg.com/vi/Il4jcDG_t2U/hq720.jpg"
-    },
-    {
-      "id": "4",
-      "title": "🎁 Free Gun Skins Inside!",
-      "message": "Get legendary Free Fire gun skins for free. Hurry up, limited offer!",
-      "imange": "https://i.ytimg.com/vi/Il4jcDG_t2U/hq720.jpg"
-    },
-    {
-      "id": "5",
-      "title": "💥 Skin Unlocker Pro!",
-      "message": "Unlock all premium FF character skins. No root required.",
-      "imange": "https://i.ytimg.com/vi/V_joDS5gGO4/maxresdefault.jpg"
-    },
-    {
-      "id": "6",
-      "title": "🏆 Become FF King Today",
-      "message": "Join tournaments, win diamonds and exclusive skins – click to enter!",
-      "imange": "https://i.ytimg.com/vi/V_joDS5gGO4/maxresdefault.jpg"
-    },
-    {
-      "id": "7",
-      "title": "🎮 Auto Aim Tool v2.0",
-      "message": "New auto-aim tool to dominate ranked matches. Try it now!",
-      "imange": "https://i.ytimg.com/vi/V_joDS5gGO4/maxresdefault.jpg"
-    },
-    {
-      "id": "8",
-      "title": "💣 Diamond Hack (Safe)",
-      "message": "Use the latest working FF diamond hack (no ban risk). Check it now!",
-      "imange": "https://i.ytimg.com/vi/V_joDS5gGO4/maxresdefault.jpg"
-    },
-    {
-      "id": "9",
-      "title": "💰 Daily Bonus: 520 Diamonds",
-      "message": "Login bonus active! Get 520 FF diamonds today only!",
-      "imange": "https://i.ytimg.com/vi/V_joDS5gGO4/maxresdefault.jpg"
-    },
-    {
-      "id": "10",
-      "title": "🎉 All Bundles Unlocked",
-      "message": "Claim all rare Free Fire bundles now! Limited slots available.",
-      "imange": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds-696x453.jpg"
-    }
-  ]
-}
+[
+  {
+    "id": "1",
+    "title": "🔥 Get Free Elite Pass Skins!",
+    "message": "Unlock rare Free Fire Elite Pass skins now – tap to claim instantly!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/1.webp"
+  },
+  {
+    "id": "2",
+    "title": "💎 Win 10,000 Diamonds Today!",
+    "message": "Spin the lucky wheel and win Free Fire diamonds – claim now!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/2.webp"
+  },
+  {
+    "id": "3",
+    "title": "🔥 Premium Gun Skins Unlocked",
+    "message": "Get stylish gun skins now and upgrade your FF gameplay instantly!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/3.webp"
+  },
+  {
+    "id": "4",
+    "title": "💎 Free Diamonds – Claim Now",
+    "message": "Your chance to get Free Fire diamonds is live. Tap & claim fast!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/4.webp"
+  },
+  {
+    "id": "5",
+    "title": "😎 Unlock Cool FF Emotes",
+    "message": "Show your swag with trending Free Fire emotes – claim today!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/5.webp"
+  },
+  {
+    "id": "6",
+    "title": "🔥 Rare Bundles Available",
+    "message": "Unlock rare Free Fire bundles and stand out in every match!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/6.webp"
+  },
+  {
+    "id": "7",
+    "title": "💎 Jeeto Free Fire Diamonds",
+    "message": "Lucky players win diamonds today – tap now to check!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/7.webp"
+  },
+  {
+    "id": "8",
+    "title": "🔥 Pro Player Skins Inside",
+    "message": "Get pro-level skins and boost your Free Fire style instantly!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/8.webp"
+  },
+  {
+    "id": "9",
+    "title": "💎 Claim Your Diamond Reward",
+    "message": "Diamonds are waiting for you – don’t miss this chance!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/9.webp"
+  },
+  {
+    "id": "10",
+    "title": "🔥 New FF Skins Released",
+    "message": "Check out the latest Free Fire skins and unlock now!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/10.webp"
+  },
+  {
+    "id": "11",
+    "title": "💎 Abhi Lelo Free Diamonds",
+    "message": "Limited-time diamond rewards available – claim instantly!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/11.webp"
+  },
+  {
+    "id": "12",
+    "title": "😎 FF Emotes Collection",
+    "message": "Unlock dancing and victory emotes – tap to claim now!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/12.webp"
+  },
+  {
+    "id": "13",
+    "title": "🔥 Legendary Skins Inside",
+    "message": "Get legendary Free Fire skins and dominate the match!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/13.webp"
+  },
+  {
+    "id": "14",
+    "title": "💎 Diamonds Giveaway Live",
+    "message": "Join now and win exciting Free Fire diamonds today!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/14.webp"
+  },
+  {
+    "id": "15",
+    "title": "🔥 Elite Bundles Unlocked",
+    "message": "Elite-level FF bundles available – claim before it’s gone!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/15.webp"
+  },
+  {
+    "id": "16",
+    "title": "💎 Tap & Win Diamonds",
+    "message": "One tap can unlock diamond rewards – try now!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/16.webp"
+  },
+  {
+    "id": "17",
+    "title": "😎 Style Your FF Character",
+    "message": "Get cool outfits and skins to upgrade your look!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/17.webp"
+  },
+  {
+    "id": "18",
+    "title": "🔥 Gun Skins Collection",
+    "message": "Unlock powerful gun skins and rule the battlefield!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/18.webp"
+  },
+  {
+    "id": "19",
+    "title": "💎 Free Diamonds Alert",
+    "message": "Diamonds reward is live – claim now before it ends!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/19.webp"
+  },
+  {
+    "id": "20",
+    "title": "🔥 FF Premium Rewards",
+    "message": "Unlock premium Free Fire rewards instantly!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/20.webp"
+  },
+  {
+    "id": "21",
+    "title": "💎 Lucky Diamond Spin",
+    "message": "Spin now and win exciting Free Fire diamonds!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/21.webp"
+  },
+  {
+    "id": "22",
+    "title": "😎 New Emotes Available",
+    "message": "Unlock latest Free Fire emotes and show your attitude!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/22.webp"
+  },
+  {
+    "id": "23",
+    "title": "🔥 Ultimate FF Skins",
+    "message": "Get ultimate skins and boost your gameplay style!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/23.webp"
+  },
+  {
+    "id": "24",
+    "title": "💎 Diamond Rewards Inside",
+    "message": "Claim your Free Fire diamond rewards right now!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/24.webp"
+  },
+  {
+    "id": "25",
+    "title": "🔥 FF Style Upgrade",
+    "message": "Upgrade your FF style with premium skins and bundles!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/25.webp"
+  },
+  {
+    "id": "26",
+    "title": "💎 Instant Diamonds Claim",
+    "message": "Don’t wait – claim your diamonds instantly!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/26.webp"
+  },
+  {
+    "id": "27",
+    "title": "😎 FF Victory Emotes",
+    "message": "Celebrate wins with exclusive Free Fire emotes!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/27.webp"
+  },
+  {
+    "id": "28",
+    "title": "🔥 Premium FF Collection",
+    "message": "Skins, emotes & bundles – everything in one place!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/28.webp"
+  },
+  {
+    "id": "29",
+    "title": "💎 Claim Rewards Now",
+    "message": "Final chance to claim diamonds and premium FF items!",
+    "imange": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/ff/banner/29.webp"
+  }
+]
