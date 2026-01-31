@@ -1,0 +1,148 @@
+{
+  "success": [
+    {
+      "id": "1",
+      "title": "🎬 Watch HD Movies",
+      "message": "Stream your favorite movies in high definition anytime.",
+      "image": "https://play-lh.googleusercontent.com/9ubWtV4BKOHv9OpNrpd1dJfQ7gYZ-patS7cQrTFiZJ3rI5WDgF-x1at8VgxLYUzinkzz=w240-h480-rw"
+    },
+    {
+      "id": "2",
+      "title": "📞 Start Video Call",
+      "message": "Connect instantly with friends and family through crystal-clear video calls.",
+      "image": "https://play-lh.googleusercontent.com/3u2K3tS_wBYY1SPoyyn6e1ePXF4iSOu2x7D0C1ryRDQN26KmL6uqR8uYIGoLVB3Cvw=w526-h296-rw"
+    },
+    {
+      "id": "3",
+      "title": "💬 Chat with Friends",
+      "message": "Send unlimited texts, photos, and voice notes with ease.",
+      "image": "https://play-lh.googleusercontent.com/wMT50becaYJi737N4vHGCE6FKdgavQIXPH0oX-bf1LHum442te65lY-H4CclNefE6nc=w240-h480-rw"
+    },
+    {
+      "id": "4",
+      "title": "🎥 Play Music Videos",
+      "message": "Enjoy trending music videos and playlists without interruption.",
+      "image": "https://play-lh.googleusercontent.com/c1o00R6ksCW3vG_DHHVMUKbUuyH29V_dkA_RJ1hFk-AGb-d9DMoA9S4dXF3o2xc5uIo=w2560-h1440-rw"
+    },
+    {
+      "id": "5",
+      "title": "📲 Voice Calling",
+      "message": "Make clear and reliable voice calls worldwide for free.",
+      "image": "https://play-lh.googleusercontent.com/DwAFObZE80FMF2-mlvx_POywGZ_sWrq8Iyj6LXsBqNSg2tliu63nj0F5dVCXEbkpkbgO=w240-h480-rw"
+    },
+    {
+      "id": "6",
+      "title": "📺 Watch Live TV",
+      "message": "Stay updated with live TV channels and sports matches.",
+      "image": "https://play-lh.googleusercontent.com/XquN-V1FgZtJDWvh3mQPx-QyLhO61CkJpzY0Sl8NWuSlvIcOL4LIchajo0IYH3JB1rg=s180-rw"
+    },
+    {
+      "id": "7",
+      "title": "👥 Group Video Chat",
+      "message": "Create rooms and chat with multiple friends face-to-face.",
+      "image": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/videoplayer/banner/2.webp"
+    },
+    {
+      "id": "8",
+      "title": "📦 Save Media",
+      "message": "Download videos, photos, and messages directly to your device.",
+      "image": "https://play-lh.googleusercontent.com/u7du6cExKe-7PeEQqbTcpUpK0Nf5cR_TgUoTR4F4b61-kXfM1S3xsSkq9nPu2B-q_A=s180-rw"
+    },
+    {
+      "id": "9",
+      "title": "🔔 Daily Notifications",
+      "message": "Get alerts for new messages, calls, and updates instantly.",
+      "image": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/videoplayer/banner/3.webp"
+    },
+    {
+      "id": "10",
+      "title": "🌍 Connect Everywhere",
+      "message": "Stay in touch with people around the world through one app.",
+      "image": "https://play-lh.googleusercontent.com/Gg2mKJ07S75gUB0pUjpzYaXAm7sdK22HBoNrEjfOUdOKALaS1ZzFoPnDsPdFMNH6A32A7xxw6UHk-6kOd_vFxOw=s180-rw"
+    },
+    {
+      "id": "11",
+      "title": "📹 Record Video Calls",
+      "message": "Save your best video call memories in HD.",
+      "image": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/videoplayer/banner/4.webp"
+    },
+    {
+      "id": "12",
+      "title": "💾 Cloud Backup",
+      "message": "Securely back up your messages, photos, and videos.",
+      "image": "https://play-lh.googleusercontent.com/syL3Veq0ip96sp5AiCHTqeDl3aN5dWVcg3Yx6A5lrvcY7Uaj_v7IZffMltasUEdidbI=s180-rw"
+    },
+    {
+      "id": "13",
+      "title": "🎤 Voice Notes",
+      "message": "Send instant voice notes with one tap.",
+      "image": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/videoplayer/banner/5.webp"
+    },
+    {
+      "id": "14",
+      "title": "📡 Low Data Mode",
+      "message": "Enjoy calls and video streaming even on low data networks.",
+      "image": "https://play-lh.googleusercontent.com/Lid-ozEWfpMxjSF8-G4NfU_IKQtHSyeytnDsTt-2jTTH-_wL9Q09lMMeciwpmVNJCqI=s180-rw"
+    },
+    {
+      "id": "15",
+      "title": "🕹️ Watch Together",
+      "message": "Stream movies and watch with friends during video calls.",
+      "image": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/videoplayer/banner/6.webp"
+    },
+    {
+      "id": "16",
+      "title": "📍 Share Location",
+      "message": "Send your real-time location in chats securely.",
+      "image": "https://play-lh.googleusercontent.com/3IG8OcpuQj33lYEb21hYADWpBLF9z_lFqBeumaBV1lIf0iZ8w0HjEUMJ9n4IEJstG7k=s180-rw"
+    },
+    {
+      "id": "17",
+      "title": "🖼️ Photo Sharing",
+      "message": "Share unlimited high-quality photos with your friends.",
+      "image": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/videoplayer/banner/7.webp"
+    },
+    {
+      "id": "18",
+      "title": "🎧 Call Recording",
+      "message": "Record voice calls easily for future reference.",
+      "image": "https://play-lh.googleusercontent.com/8yuBA_PhdKMjncnxZZxwqAeJcWifBfQyW_8LZH9_20PGXYPnSnrQGi2V1mIOtbpgIFfD=s180-rw"
+    },
+    {
+      "id": "19",
+      "title": "🌓 Dark Mode",
+      "message": "Chat comfortably with the new dark mode theme.",
+      "image": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/videoplayer/banner/8.webp"
+    },
+    {
+      "id": "20",
+      "title": "📑 Message Archive",
+      "message": "Organize and archive your old chats safely.",
+      "image": "https://play-lh.googleusercontent.com/dQ713sV9JMVE2q8y6v_SftihL5Hw2yoSqiTIJ40rtMrSEmeMOb9oawSK8U-JKTJccce2=s180-rw"
+    },
+    {
+      "id": "21",
+      "title": "💡 Smart Suggestions",
+      "message": "Get quick replies and smart suggestions in chats.",
+      "image": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/videoplayer/banner/9.webp"
+    },
+    {
+      "id": "22",
+      "title": "📤 File Sharing",
+      "message": "Send large files, documents, and media in one tap.",
+      "image": "https://play-lh.googleusercontent.com/bsX86bjLaJA9ZibVBQNsB3smvkOo-CsEHu74Zah9DkXBvFQ_D3nM04GUkOX1bfc14Yod=s180-rw"
+    },
+    {
+      "id": "23",
+      "title": "🔎 Search Chats",
+      "message": "Find messages, media, or contacts instantly.",
+      "image": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/videoplayer/banner/10.webp"
+    },
+    {
+      "id": "24",
+      "title": "👤 Profile Status",
+      "message": "Set your profile photo and custom status updates.",
+      "image": "https://raw.githubusercontent.com/b2411/affilate_url/refs/heads/main/videoplayer/banner/11.webp"
+    }
+  ]
+}
